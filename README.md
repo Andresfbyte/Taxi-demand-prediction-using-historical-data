@@ -1,1 +1,2 @@
 # Taxi-demand-prediction-using-historical-data
+The goal of this research is to use previous data to forecast how many taxi orders will be placed at airports in the next hour. We will create prediction algorithms to estimate the demand for taxis by resampling and evaluating the data. The objective is to complete the exam set with a RECM (Root Error of Cumulative Mean) score of no more than 48. To choose the optimal model for this job, a number of models will be trained with various hyperparameters, and their performance will be assessed.
